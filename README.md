@@ -1,3 +1,5 @@
+Terminal
+
 # Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
